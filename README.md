@@ -1,7 +1,7 @@
 Twitter Sentiment Analysis
 ===================================
 
-The objective of this NLP project is to detect hate speech (racist or sexist) in tweets.
+The objective of this NLP project is to detect hate speech (racism or sexism) in tweets.
 
 ## Dataset
 
